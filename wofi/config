@@ -1,1 +1,11 @@
 style=/home/nic/.config/wofi/style.css
+
+y=0
+x=810
+
+
+allow_images=true
+lines=5
+width=300
+
+insensitive=true

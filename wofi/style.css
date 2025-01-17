@@ -8,7 +8,9 @@ window {
 }
 
 #input {
-  background-color: #3b353b;
+  background-color: #24273A;
   color: #839496;
   border: 4px solid #2e3040;
+  border-radius: 10px;
 }
+
